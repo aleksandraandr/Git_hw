@@ -1,0 +1,11 @@
+Git, Git Hub
+JavaScript
+TypeScript
+Работа с селекторами
+Тестирование UI с селениумом (WebdriverIO)
+Построение Test Automation Framework
+Тестирование API
+BDD с использованием Cucumber
+Тестирование UI c Playwright
+Тестирование API с Playwright
+Интеграция с CI/CD
