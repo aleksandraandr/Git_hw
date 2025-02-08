@@ -1,1 +1,12 @@
+Description: The 'Submit' button is not active after filling up all required fields
+
+Steps to reproduce:
+1. Open url (https://example.com/register)
+2. Enter valid data to the Name, Email, and Password fields
+3. Click on the 'I accept the terms and conditions' checkbox
+4. Note the 'Submit' button remains inactive
+
+Actual result: The 'Submit' button is not active, and the user is not available to send the registration form
+
+Expected result: The 'Submit' button should be active after filling up all required fields
 
